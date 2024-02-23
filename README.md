@@ -1,5 +1,4 @@
-Credit Card Approval Project
-
+Credit Card Approval Project 
 
 Welcome to the Credit Card Approval project repository. This project aims to build a machine learning model to predict credit card approval decisions based on applicant information. The project includes data preprocessing, model training, evaluation, and deployment steps, providing a comprehensive solution for credit card approval analysis.
 
