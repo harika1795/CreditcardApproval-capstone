@@ -15,7 +15,6 @@ Technologies Used:
 Python: Main programming language for data preprocessing, model training, and deployment.
 Scikit-learn: Machine learning library for building and evaluating predictive models.
 Pandas: Data manipulation and preprocessing.
-Flask: Web framework for model deployment.
-HTML/CSS/JavaScript: Frontend development for the web-based interface (if applicable).
+
 
 ![image](https://github.com/harika1795/CreditcardApproval-capstone/assets/153234284/f1d49430-10f1-4bc3-8d41-07caf448b052)
